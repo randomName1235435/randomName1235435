@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Marco aka [randomName1235435](https://github.com/randomName1235435) 👋
+
+## I'm a Developer from germany state mv
+
+## Principles aka do always (in business areas 🤣)
+* Cleancode
+* Unittests
+* KISS
+* Documentation
 
 <!--
 **randomName1235435/randomName1235435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
