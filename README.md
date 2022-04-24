@@ -15,11 +15,12 @@
 ### Languages
 * .NET
   * C#
-  * WPF
+  * WPF (Infragistics, Devexpress)
+  * Winforms (Infragistics, Devexpress)
   * ASP.NET MVC (Rest)
-  * TFS
+  * TFS (Azure Dev Ops)
   * WCF (Soap)
-  * MS Test
+  * MS Test, Bogus
   * Moq
   * EF
 * Java
@@ -31,6 +32,8 @@
   * Mockito
   * Log4J
 * SQL
+  * MS SQL
+  * DB2  
 
 ### Tools
 * Powershell
@@ -39,19 +42,22 @@
 * TFS
 * Visual Studio
 * MS SQL Server Management Studio
+* DBeaver
+* VS Code
+* Cmder
 * Eclipse
 * IntelliJ
 * MonoDevelop
 * Docker
 * IIS
-* Redmine
+* Redmine, TFS Workitems, Jira, Confluence
 * SVN
-* VMWare & hyper V
+* VMWare & hyper V, WSL1 & WSL2 
 
 ### Models & Working
 * Scrum
 * Continous integration & deployments
-* Unittests
+* Unittests & Integrationtests
 * Refactoring
 * Designpattern
 * IocContainer & Eventaggregation
