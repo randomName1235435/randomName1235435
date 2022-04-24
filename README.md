@@ -64,3 +64,5 @@
 * Poco & Pojo
 * Markdown & diagrams
 * REST, SOAP, GRPC
+
+Vendingmachines <3
