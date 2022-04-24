@@ -57,3 +57,4 @@
 * IocContainer & Eventaggregation
 * Poco & Pojo
 * Markdown & diagrams
+* REST, SOAP, GRPC
