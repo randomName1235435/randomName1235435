@@ -4,6 +4,7 @@
 * just started working on a redmine wpf desktop app <img align="left" alt="React" width="26px" src="https://www.redmine.org/attachments/download/9529/favicon.ico" />
 * currently learning react <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 * current active weird distro is peppermint <img align="left" width="26px" src="https://peppermintos.com/wp-content/uploads/2020/07/cropped-Peppermint-OS-Logo-32x32.png" />
+* Update POPOS x)
 * active on leetcode as well <img align="left" width="26px" src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" /> 
 
 ## Principles aka do always (in business areas 🤣)
@@ -34,6 +35,7 @@
 * SQL
   * MS SQL
   * DB2  
+  * MySQL
 
 ### Tools
 * Powershell
@@ -45,6 +47,9 @@
 * DBeaver
 * VS Code
 * Cmder
+* Windows Terminal
+* Rider
+* Dot Peek
 * Eclipse
 * IntelliJ
 * MonoDevelop
