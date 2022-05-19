@@ -58,6 +58,10 @@
 * Redmine, TFS Workitems, Jira, Confluence
 * SVN
 * VMWare & hyper V, WSL1 & WSL2 
+* Deployment
+** ShadowCopy
+** ClickOnce
+** Wix
 
 ### Models & Working
 * Scrum
