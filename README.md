@@ -36,6 +36,10 @@
   * MS SQL
   * DB2  
   * MySQL
+* Powershell
+* Js/Ts
+* Bash
+* Batch
 
 ### Tools
 * Powershell
